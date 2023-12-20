@@ -1,10 +1,21 @@
-- 👋 Hi, I’m @BrayanOfficiel, student at @epita
-- 👀 I’m interested in pre-2000 cars (the older, the better), tuning and coding
-- 💩 I'm not interested in Elon Musk and e-cars
-- 🌱 I’m currently learning C and C++
-- 💞️ I’m looking to collaborate on HTML/JS projects
-- 📫 How to reach me : boudjemelinehaider@gmail.com
-<!---
-BrayanOfficiel/BrayanOfficiel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# 👋 Hi, I’m @BrayanOfficiel
+
+## About Me 
+- 🏫 Student at **IIM Digital School**
+- 💻 Interested in **coding** 💻, **pre-2000 cars** <img src="vw2.svg" height="20px">, and **tuning** 🔧
+- 🚫 Not interested in **Elon Musk** 💩 and **e-cars** 💩
+- 📚 Currently learning **C** and **C#**
+
+## Skills
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JS-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![SCSS](https://img.shields.io/badge/-SCSS-CC6699?style=flat&logo=sass&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=black)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=csharp&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white)
+
+## Contact Me
+- 📧 Email: [Contact me here !](mailto:haider-rayan.boudjemeline@edu.devinci.fr)
