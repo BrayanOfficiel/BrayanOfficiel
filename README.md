@@ -3,8 +3,7 @@
 ## About Me 
 - 🏫 Student at **IIM Digital School**
 - 💻 Interested in **coding** 💻, **pre-2000 cars** <img src="vw2.svg" height="20px">, and **tuning** 🔧
-- 🚫 Not interested in **Elon Musk** 💩 and **e-cars** 💩
-- 📚 Currently learning **C** and **C#**
+- 📚 Currently learning **Symfony**
 
 ## Skills
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
