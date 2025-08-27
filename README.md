@@ -6,7 +6,7 @@
 
 ## 🇫🇷 À propos
 - Étudiant **IIM Digital School** — **alternance @ [GDP.Digital](https://gdp.digital)**  
-- Intérêts : **code**, **(vraies) voitures** <img src="vw2.svg" height="20px">, **tuning**  
+- Intérêts : **code**, **(vraies) voitures** <img src="vw2.svg" height="10px">, **tuning**  
 - Objectif 2026 : **maîtriser Symfony** / **React**, livrer 2 projets full-stack, **CI/CD** basique (tests, déploiement), documentation propre.
 
 ### Stack principale
@@ -24,11 +24,11 @@
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white)
 
 ### Côté garage
-- **Golf Mk2 1600** — projet resto (fiabilité/ésthé). 🔧
+- **Golf Mk2 1600** — projet resto 🔧
 
 ---
 
 ## 🇬🇧 About
 - Student at **IIM Digital School** — **apprenticeship @ [GDP.Digital](https://gdp.digital)**  
-- Interests: **coding**, **(real) cars** <img src="vw2.svg" height="20px">, **tuning**  
+- Interests: **coding**, **(real) cars** <img src="vw2.svg" height="10px">, **tuning**  
 - **2026 Goal:** master **Symfony** & **React**, ship 2 full-stack projects, add **basic CI/CD** (tests, deploy), clean docs.
