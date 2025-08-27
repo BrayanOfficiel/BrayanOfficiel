@@ -6,7 +6,7 @@
 
 ## 🇫🇷 À propos
 - Étudiant **IIM Digital School** — **alternance @ [GDP.Digital](https://gdp.digital)**  
-- Intérêts : **code**, **(vraies) voitures** <img src="vw2.svg" height="10px">, **tuning**  
+- Intérêts : **code**, **(vraies) voitures** <img src="vw2.svg" height="20px">, **tuning**  
 - Objectif 2026 : **maîtriser Symfony** / **React**, livrer 2 projets full-stack, **CI/CD** basique (tests, déploiement), documentation propre.
 
 ### Stack principale
