@@ -1,11 +1,11 @@
 # 👋 Hi, I’m @BrayanOfficiel
 
-> Web dev apprentice @ **GDP.Digital** (Sèvres) — IIM Digital School
+> Web dev apprentice @ **GDP.Digital** (Sèvres) - PMN School
 
 ---
 
 ## 🇫🇷 À propos
-- Étudiant **IIM Digital School** — **alternance @ [GDP.Digital](https://gdp.digital)**  
+- Étudiant **École PMN** — **alternance @ [GDP.Digital](https://gdp.digital)**  
 - Intérêts : **code**, **(vraies) voitures** <img src="vw2.svg" height="20px">, **tuning**  
 - Objectif 2026 : **maîtriser Symfony** / **React**, livrer 2 projets full-stack, **CI/CD** basique (tests, déploiement), documentation propre.
 
@@ -29,6 +29,6 @@
 ---
 
 ## 🇬🇧 About
-- Student at **IIM Digital School** — **apprenticeship @ [GDP.Digital](https://gdp.digital)**  
+- Student at **PMN School** — **apprenticeship @ [GDP.Digital](https://gdp.digital)**  
 - Interests: **coding**, **(real) cars** <img src="vw2.svg" height="10px">, **tuning**  
 - **2026 Goal:** master **Symfony** & **React**, ship 2 full-stack projects, add **basic CI/CD** (tests, deploy), clean docs.
